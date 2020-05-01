@@ -15,9 +15,10 @@ npm run dev
 
 - Ajouter votre `connectionString` (mongoDB pour ce projet)
 
-
-
-
 ## Deployer sur Vercel
 
-https://nextjs.org/docs/deployment
+- https://nextjs.org/docs/deployment
+
+## Lien vers le projet 
+
+- https://nextjs-serverless-functions-mongodb.jesszeroual.now.sh/
